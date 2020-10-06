@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealGitHub",
+			"Path": "C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHub.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealGitHubEditor",
+			"Path": "C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHubEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

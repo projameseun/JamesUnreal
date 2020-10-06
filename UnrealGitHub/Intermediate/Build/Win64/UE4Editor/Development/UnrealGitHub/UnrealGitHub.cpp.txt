@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Intermediate\Build\Win64\UE4Editor\Development\UnrealGitHub\Definitions.UnrealGitHub.h
+C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Source\UnrealGitHub\UnrealGitHub.h

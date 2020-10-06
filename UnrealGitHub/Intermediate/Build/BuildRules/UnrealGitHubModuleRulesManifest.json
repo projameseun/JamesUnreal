@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHub\\UnrealGitHub.Build.cs",
+		"C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHub.Target.cs",
+		"C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHubEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
