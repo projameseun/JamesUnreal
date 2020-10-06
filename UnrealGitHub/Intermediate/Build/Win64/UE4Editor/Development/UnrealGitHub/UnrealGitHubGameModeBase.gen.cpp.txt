@@ -1,9 +1,0 @@
-C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Intermediate\Build\Win64\UE4Editor\Development\UnrealGitHub\Definitions.UnrealGitHub.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Source\UnrealGitHub/UnrealGitHubGameModeBase.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGitHub\UnrealGitHubGameModeBase.generated.h

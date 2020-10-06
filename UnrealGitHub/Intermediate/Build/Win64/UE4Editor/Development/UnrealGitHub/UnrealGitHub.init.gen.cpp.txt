@@ -1,3 +1,0 @@
-C:\Users\user\Desktop\UnrealGit\WorkSpace\JamesUnreal\UnrealGitHub\Intermediate\Build\Win64\UE4Editor\Development\UnrealGitHub\Definitions.UnrealGitHub.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

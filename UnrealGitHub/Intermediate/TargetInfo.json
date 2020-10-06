@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "UnrealGitHub",
-			"Path": "C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHub.Target.cs",
+			"Name": "UE7_20201007",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal\\WorkSpace\\UE7_20201007\\Source\\UE7_20201007.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "UnrealGitHubEditor",
-			"Path": "C:\\Users\\user\\Desktop\\UnrealGit\\WorkSpace\\JamesUnreal\\UnrealGitHub\\Source\\UnrealGitHubEditor.Target.cs",
+			"Name": "UE7_20201007Editor",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal\\WorkSpace\\UE7_20201007\\Source\\UE7_20201007Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
