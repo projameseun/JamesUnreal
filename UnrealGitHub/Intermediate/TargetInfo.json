@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "UE7_20201007",
-			"Path": "C:\\Users\\user\\Desktop\\Unreal\\WorkSpace\\UE7_20201007\\Source\\UE7_20201007.Target.cs",
+			"Name": "Test20201011",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal\\Test\\Test20201011\\Source\\Test20201011.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "UE7_20201007Editor",
-			"Path": "C:\\Users\\user\\Desktop\\Unreal\\WorkSpace\\UE7_20201007\\Source\\UE7_20201007Editor.Target.cs",
+			"Name": "Test20201011Editor",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal\\Test\\Test20201011\\Source\\Test20201011Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

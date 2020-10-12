@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Test20201011.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{15DCEA3F-C3AA-40EA-AEE2-F8964133CEFC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test20201011.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Test20201011Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AEAD74B8-3AB2-46C1-8436-3EE5BAD62C5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Test20201011">
+      <UniqueIdentifier>{536E457D-9DDD-4AA4-9942-E1D5F4A678FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Test20201011\GameInfo.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\GameInfo.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\MainGameModeBase.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\MainGameModeBase.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\PlayerBaseAnim.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\PlayerBaseAnim.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\PlayerCharacter.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\PlayerCharacter.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\PlayerShinbi.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\PlayerShinbi.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\ShinbiAnim.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\ShinbiAnim.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Test20201011\Test20201011.Build.cs">
+      <Filter>Source\Test20201011</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Test20201011\Test20201011.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\Test20201011.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\Test20201011GameModeBase.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\Test20201011GameModeBase.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\YinAnim.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\YinAnim.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test20201011\YinPlayer.cpp">
+      <Filter>Source\Test20201011</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20201011\YinPlayer.h">
+      <Filter>Source\Test20201011</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

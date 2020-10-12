@@ -1,0 +1,12 @@
+﻿  Building Test20201011Editor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 16 processes...
+    [1/5] MainGameModeBase.cpp
+    [2/5] YinPlayer.cpp
+    [3/5] UE4Editor-Test20201011-0054.lib
+       C:\Users\user\Desktop\Unreal\Test\Test20201011\Intermediate\Build\Win64\UE4Editor\Development\Test20201011\UE4Editor-Test20201011-0054.lib ���̺귯�� �� C:\Users\user\Desktop\Unreal\Test\Test20201011\Intermediate\Build\Win64\UE4Editor\Development\Test20201011\UE4Editor-Test20201011-0054.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+    [4/5] UE4Editor-Test20201011-0054.dll
+       C:\Users\user\Desktop\Unreal\Test\Test20201011\Intermediate\Build\Win64\UE4Editor\Development\Test20201011\UE4Editor-Test20201011-0054.suppressed.lib ���̺귯�� �� C:\Users\user\Desktop\Unreal\Test\Test20201011\Intermediate\Build\Win64\UE4Editor\Development\Test20201011\UE4Editor-Test20201011-0054.suppressed.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+    [5/5] Test20201011Editor.target
+  Total time in Parallel executor: 3.15 seconds
+  Total execution time: 3.80 seconds
