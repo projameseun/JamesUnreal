@@ -738,3 +738,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-18.49.36:389][834]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2020.11.02-18.49.36:389][834]LogContentValidation: Display: World /Game/Level/MainLevel.MainLevel 유효성 검사
 [2020.11.02-18.49.36:389][834]LogContentValidation: Display: MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData 유효성 검사
+[2020.11.02-18.56.23:222][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.11.02-18.56.27:647][628]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.11.02-18.56.28:817][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.02-18.56.28:833][685]LogSavePackage: Moving '../../../../../../Users/user/Desktop/UnrealGit/WorkSpace/JamesUnreal/UnrealGitHub/Saved/MainLevel3AC15C694FA4A070E35D21812799F0FC.tmp' to '../../../../../../Users/user/Desktop/UnrealGit/WorkSpace/JamesUnreal/UnrealGitHub/Content/Level/MainLevel.umap'
+[2020.11.02-18.56.28:840][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/user/Desktop/UnrealGit/WorkSpace/JamesUnreal/UnrealGitHub/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2020.11.02-18.56.28:850][685]LogSavePackage: Moving '../../../../../../Users/user/Desktop/UnrealGit/WorkSpace/JamesUnreal/UnrealGitHub/Saved/MainLevel_BuiltData2B4E992642525C64778582BC34243D9A.tmp' to '../../../../../../Users/user/Desktop/UnrealGit/WorkSpace/JamesUnreal/UnrealGitHub/Content/Level/MainLevel_BuiltData.uasset'
+[2020.11.02-18.56.28:863][685]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.11.02-18.56.28:863][685]LogContentValidation: Display: World /Game/Level/MainLevel.MainLevel 유효성 검사
+[2020.11.02-18.56.28:863][685]LogContentValidation: Display: MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData 유효성 검사
